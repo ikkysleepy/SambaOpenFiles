@@ -1,0 +1,7 @@
+Locked files:
+Pid          Uid        DenyMode   Access      R/W        Oplock           SharePath   Name   Time
+--------------------------------------------------------------------------------------------------
+123        3  DENY_NONE  0x2019f     RDWR       NONE             /volume1/scripts   project_alpha/test.php   Fri Mar 27 11:11:05 2015
+123        3  DENY_NONE  0x100081    RDONLY     NONE             /volume1/scripts   project_alpha/test   Fri Mar 27 14:36:29 2015
+124        4  DENY_NONE  0x2019f     RDWR       NONE             /volume1/main   work/document1.doc   Fri Mar 27 11:11:05 2015
+
